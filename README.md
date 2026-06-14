@@ -71,23 +71,34 @@ AIとのチャットで疑問をその場で解消しながら、カリキュラ
 
 ## 📸 画面イメージ
 
-### 🏠 ホーム画面 / 📊 今日のブリーフィング
-| | |
-|:---:|:---:|
-| ![ホーム](docs/images/main.png) | ![ブリーフィング](docs/images/briefing.png) |
-| ホーム画面 | 今日のブリーフィング |
+## 📸 画面イメージ
 
-### 💬 メンターチャット / 📚 学習ロードマップ
-| | |
-|:---:|:---:|
-| ![チャット](docs/images/chat.png) | ![ロードマップ](docs/images/rodmap.png) |
-| メンターチャット | 学習ロードマップ |
-
-### 📝 学習ノート
-| | |
-|:---:|:---:|
-| ![ノート](docs/images/nots.png) | |
-| 学習ノート | |
+<table>
+  <tr>
+    <td align="center"><strong>🏠 ホーム画面</strong></td>
+    <td align="center"><strong>📊 今日のブリーフィング</strong></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/main.png" width="400"/></td>
+    <td><img src="docs/images/briefing.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💬 メンターチャット</strong></td>
+    <td align="center"><strong>📚 学習ロードマップ</strong></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/chat.png" width="400"/></td>
+    <td><img src="docs/images/roadmap.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📝 学習ノート</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="docs/images/notes.png" width="400"/></td>
+    <td></td>
+  </tr>
+</table>
 
 ## システム構成図
 
